@@ -19,6 +19,12 @@ The numbers supported to 64bit numbers
 # How To Run
 
 as hw2_sol.asm -o hw2_sol.o
+
+
 gcc -no-pie calc.c hw2_sol.o -o calc
+
+
 ./calc
+
+
 and enter the expression after running.
