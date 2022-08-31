@@ -4,6 +4,7 @@ This project was implemented during the coursework  Computer Organization And Pr
 given an expression with the  + - / *  () operators and calculates the result and prints it
 
 The expression is defined recursively as:
+
 1.(num)
 
 as the the num can be a positive or negative number
