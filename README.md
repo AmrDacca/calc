@@ -5,11 +5,16 @@ given an expression with the  + - / *  () operators and calculates the result an
 
 The expression is defined recursively as:
 1.(num)
+
 as the the num can be a positive or negative number
+
 2.(num OP num)
+
 the OP is on one the given operators '+' '/' '-' '*'
 3.(EXP)
+
 recursively as the definition 1
+
 4.(EXP OP EXP)
 
 
